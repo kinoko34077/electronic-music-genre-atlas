@@ -1,0 +1,139 @@
+{
+  "as_of": "2026-11-14",
+  "scope": "Supplement to 16 imported candidates, NOT adopted until checked against the 510-slot ledger. All sources accessed via live web search. Playback from Japan untested.",
+  "candidates": [
+    {
+      "genre_id": 3,
+      "period": "early",
+      "artist": "Porter Robinson",
+      "title": "Spitfire",
+      "version": "Original",
+      "original_year": 2011,
+      "evidence_grade": "A",
+      "source": {
+        "title": "Pitchfork — 25 Microgenres That (Briefly) Defined the Last 25 Years",
+        "date": "2021-10-07",
+        "url": "https://pitchfork.com/features/lists-and-guides/microgenres-25th-anniversary/",
+        "reason": "Explicitly listed among Complextro crucial listening."
+      },
+      "audio": {
+        "service": "YouTube - Official Artist Channel",
+        "url": "https://www.youtube.com/watch?v=rgT1qFIWHYc",
+        "metadata": "Porter Robinson artist channel; original release 2011; not Kill the Noise remix",
+        "page_checked": true,
+        "playback_verified": false
+      },
+      "state": "source_and_audio_page_checked; candidate"
+    },
+    {
+      "genre_id": 3,
+      "period": "early",
+      "artist": "Mord Fustang",
+      "title": "Lick The Rainbow",
+      "version": "Original",
+      "original_year": 2011,
+      "evidence_grade": "B",
+      "source": {
+        "title": "UnderOwl — What Is Complextro? (key tracks)",
+        "date": null,
+        "url": "https://underowl.net/en/genre/complextro",
+        "reason": "Lists track as an illustrative key complextro cut; genre-tag evidence secondary."
+      },
+      "audio": {
+        "service": "Bandcamp - Artist",
+        "url": "https://mordfustang.bandcamp.com/track/lick-the-rainbow",
+        "metadata": "Mord Fustang direct track; October 1, 2011, Plasmapool",
+        "page_checked": true,
+        "playback_verified": false
+      },
+      "state": "source_and_audio_page_checked; candidate"
+    },
+    {
+      "genre_id": 3,
+      "period": "early",
+      "artist": "Madeon",
+      "title": "Icarus",
+      "version": "Original",
+      "original_year": 2012,
+      "evidence_grade": "B",
+      "source": {
+        "title": "UnderOwl — What Is Complextro? (key tracks)",
+        "date": null,
+        "url": "https://underowl.net/en/genre/complextro",
+        "reason": "Lists Icarus as complextro with pop chord progression; independent follow-up preferred."
+      },
+      "audio": {
+        "service": "YouTube - Official Artist Channel",
+        "url": "https://www.youtube.com/watch?v=XHs99iVpnXU",
+        "metadata": "Madeon official channel dated 2012-02-26",
+        "page_checked": true,
+        "playback_verified": false
+      },
+      "state": "source_and_audio_page_checked; candidate"
+    },
+    {
+      "genre_id": 4,
+      "period": "early",
+      "artist": "Tipper",
+      "title": "Ton Of Brix",
+      "version": "VIP Mix",
+      "original_year": 2011,
+      "evidence_grade": "B (for title only; edition not confirmed by editorial source)",
+      "source": {
+        "title": "Bandcamp Daily — A Brief Primer on the Contemporary Glitch-Hop Scene",
+        "date": "2018-08-20",
+        "url": "https://daily.bandcamp.com/lists/bandcamp-glitch-hop-list",
+        "reason": "Calls the title a quintessential glitch-hop anthem, without specifying VIP edition."
+      },
+      "audio": {
+        "service": "Bandcamp - Artist",
+        "url": "https://tipper.bandcamp.com/track/ton-of-brix-vip-mix-2",
+        "metadata": "Official Tipper song-specific VIP Mix; Bubble Control EP 2011-11-11",
+        "page_checked": true,
+        "playback_verified": false
+      },
+      "state": "candidate; version_equivalence_not_proven"
+    },
+    {
+      "genre_id": 4,
+      "period": "current",
+      "artist": "CouchLocked",
+      "title": "Possum Stew",
+      "version": "Original",
+      "original_year": 2025,
+      "evidence_grade": "C",
+      "source": {
+        "title": "Glitch Hop Community — CouchLocked - Possum Stew",
+        "date": "2025-12-08",
+        "url": "https://glitchhopcommunity.bandcamp.com/album/couchlocked-possum-stew",
+        "reason": "Publisher explicitly describes this exact song as glitch-hop funk; source is self-promotional and does not establish broader representative status."
+      },
+      "audio": {
+        "service": "Bandcamp - Label",
+        "url": "https://glitchhopcommunity.bandcamp.com/track/possum-stew",
+        "metadata": "Glitch Hop Community release, original December 8 2025",
+        "page_checked": true,
+        "playback_verified": false
+      },
+      "state": "candidate_only; A_B_independent_representativeness_missing"
+    }
+  ],
+  "rejected_shortcuts": [
+    {
+      "genre_id": 3,
+      "title": "Complextro",
+      "artist": "MisterLEVIK",
+      "year": 2026,
+      "reason": "A song title and DSP House classification alone do not establish actual Complextro genre or representative status.",
+      "source": "https://music.apple.com/us/album/complextro/1872199205?i=1872199206"
+    },
+    {
+      "genre_id": 10,
+      "artist": "Chime & DanTheMak",
+      "title": "That's Good",
+      "year": 2026,
+      "reason": "Label explicitly calls it a *new UK-inspired dubstep style*, not automatically a Colour Bass continuation. Preserve as transition/genre reclassification lead, not fifth modern Colour Bass by similarity.",
+      "source": "https://www.beatport.com/release/thats-good/5818731"
+    }
+  ]
+}
