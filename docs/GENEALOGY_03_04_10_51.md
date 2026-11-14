@@ -1,0 +1,31 @@
+# First-pass source-backed genealogy notes — 2026-11-14
+**STATUS: partial, research-in-progress.** Only categories 03, 04, 10, 51 are treated here. Other 47 preserved in inventory, NOT audited. Track candidates never automatically adopted by class membership.
+
+## 03 — Complextro
+**Position:** 2010–2012 era microgenre of complex, fast-rotating electro-house patches and bass riffs; not a recently founded 2020s genre. [Pitchfork's 2021 microgenre history](https://pitchfork.com/features/lists-and-guides/microgenres-25th-anniversary/) specifically dates 2010–2012, identifies Porter Robinson, Wolfgang Gartner, Skrillex and Zedd, and points to **Spitfire** and **Shave It**. [DJ Mag's Porter retrospective](https://djmag.asia/content/10-moments-defined-porter-robinson) identifies **Say My Name** as a 2010 characteristic example. [AllMusic artist biography](https://www.allmusic.com/artist/porter-robinson-mn0002614218) independently states the term was coined by Robinson. This is not the 1980s Black Detroit **Electro** genre: four-on-floor Electro House and dubstep-influenced midrange sound design are material to the specific 2010s sound.
+
+**Music:** usually house-style kick and a succession of distinct synth/bass phrases within one drop, frequent rhythmic interruption and call-and-response, 2010–2012's maximal electro sound. A current song with multiple patches is not by itself evidence of belonging to the old scene.
+
+**Contemporary problem:** no verified set of five 2022–2026 recordings *specifically representative of a continuing Complextro genre* was found in this slice. 2026 tracks titled "Complextro" are title-only evidence. Keep modern slots uncollected until dated scene-level and track-level A/B evidence exists.
+
+## 04 — Glitch Hop (bass/EDM-adjacent)
+**Position:** broad mixed midtempo bass-and-breaks scene, named within overlapping glitch and hip-hop traditions. [Bandcamp Daily, Dave Jenkins, Aug 20 2018](https://daily.bandcamp.com/lists/bandcamp-glitch-hop-list) describes a highly plastic 80–130 BPM zone (often 110–115), with hip-hop break grooves, distorted bass and technical stuttering spanning funk, trap and dubstep. Midtempo is a *typical envelope*, not a hard rule. The article considers Tipper, edIT, Opiuo, Culprate, ill.Gates and Mr. Bill in the scene.
+
+**Music:** displaced breakbeats and hip-hop swing, bass-driven groove and stuttering/edit percussion. Fusion from electronic glitch + instrumental hip-hop and heavier bass design is evidenced, but not a single simple chain.
+
+**Track-specific example:** the above editorial calls Tipper's **Ton Of Brix** a quintessential anthem. Artist Bandcamp has [Ton Of Brix (VIP Mix)](https://tipper.bandcamp.com/track/ton-of-brix-vip-mix-2), 2011; edition-specific equivalence to article is **not established**. For contemporary output, label's [CouchLocked — Possum Stew](https://glitchhopcommunity.bandcamp.com/track/possum-stew), 2025-12-08, is directly labelled glitch-hop by its rights-holder, which is *genre attribution*, not independent representative-grade A/B evidence.
+
+## 51 — Glitch Hop (experimental Hip Hop comparison)
+**Position:** comparison frame for experimental/instrumental hip-hop using glitch/cut-up techniques, not the same as 04's later bass-music festival trajectory. [FACT Magazine's Prefuse 73 retrospective](https://www.factmag.com/2013/07/05/the-essential-prefuse-73/) and [The Arts Desk, Electronica 2000-9](https://www.theartsdesk.com/new-music/electronica-2000-9-back-grass-roots) describe 1990s–2000s hip-hop producers and IDM/glitch crossover (including Prefuse 73, Push Button Objects, Dabrye, Machinedrum, Funkstörung) and explicitly discuss the shifting labels. This may be a *scene/production-genealogy research frame* rather than autonomous genre; needs adjudication.
+
+**04 vs 51:** common early materials do not prove identical label meaning or same 2025 artists. Decide track assignment independently and annotate double-counting. The 2025 label album *MODERN DAY GLITCH HOP* by Ula explicitly references San Diego hip-hop/glitch-hop, but its own tag/description is C grade, not sufficient to fill #51 with five A/B representatives.
+
+## 10 — Colour Bass
+**Name/scene origin:** first-person [CHOMPO interview with Chime, 2024-03-12](https://medium.com/@chompo/an-interview-with-chime-the-inventor-of-colour-bass-cc44469824c9): name created around **2016** to distinguish the melodic/heavy midground from what melodic dubstep had come to imply, began as SoundCloud tags shared by friends, supported by the Rushdown label, and became more widely recognized around 2020. Chime's [official Rushdown description](https://www.chimetunes.net/rushdown) confirms launch year 2016 and label's mission. These first-party accounts outweigh aggregator pages that alternately label origin USA or parent Future Bass.
+
+**Music:** Dubstep-related half-time bass with melody/harmony in the distorted bass timbre itself; melody, emotion and vibrancy with heavier sound design, not merely bright chord layers; roughly 140–150 BPM is commonly described but is not a categorical exclusion. Historical influences are fusion and design proximity, **not** a proven one-arrow Future Bass → Colour Bass descent.
+
+**Continuation:** [Chime official discography](https://www.chimetunes.net/music) says Sep 2025 started a renewed UK Dubstep-inspired direction; this is a change of artist style, not automatic proof every subsequent track is still Colour Bass. [Rushdown 2026 release note for Chime & DanTheMak — That's Good](https://www.beatport.com/release/thats-good/5818731) explicitly calls it a new UK-inspired Dubstep style. Preserve as boundary evidence; do not silently classify as Colour Bass just because Chime performed it.
+
+## Verification and next steps
+Per candidate: identify track, original version/first release year, source naming the actual track and its representative role, independently check rights-holder individual playable track URL, and playback/region only if directly tested. A title in a genre chart or an artist's profile is C at best. The prior 16 candidates, new 5, and 495 uncollected slots are **not** 510 validated songs. No exhaustive classification or successful iPhone hardware test is claimed here.
