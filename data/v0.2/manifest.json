@@ -1,0 +1,35 @@
+{
+  "schema": "electronic-music-genre-atlas.v0.2-recovery.v1",
+  "version": "v0.2",
+  "as_of": "2026-11-16",
+  "status": "INCOMPLETE_RESEARCH_NOT_CANONICAL",
+  "canonical_contract": "docs/SPECIFICATION.md",
+  "owner_issue": "https://github.com/kinoko34077/electronic-music-genre-atlas/issues/1",
+  "reference_report": "docs/research/v0.2/RESEARCH_HANDOFF.md",
+  "lead_file": "data/v0.2/track_leads.csv",
+  "leads_count": 68,
+  "lead_period_counts": {
+    "early": 30,
+    "current": 38
+  },
+  "distinct_genre_count": 15,
+  "legacy_candidates_are_accepted": false,
+  "formal_tracks_adopted_by_import": 0,
+  "source_mention_count_verified_by_import": 0,
+  "actual_audio_playback_verified_by_import": 0,
+  "prior_v02_export_accessible": false,
+  "prior_v02_reported": {
+    "selected": 252,
+    "unfilled": 258
+  },
+  "revised_v02_reported": {
+    "strict_selected": 6,
+    "ab_sourced_awaiting_audio": 202,
+    "c_only": 4,
+    "no_ab": 278,
+    "category_exception": 20,
+    "total": 510
+  },
+  "revised_208_track_records_accessible": false,
+  "notes": "Reported research counts are not independently audited. This import conserves only names and source leads that were explicitly visible in revised report, not the original unavailable v0.2 CSV/JSON."
+}
