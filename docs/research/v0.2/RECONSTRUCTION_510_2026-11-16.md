@@ -12,12 +12,12 @@
 | --- | ---: |
 | 再構成した固定候補枠 | 510（初期255・現在255） |
 | 重複統合後の候補プール | 673曲・研究枠・期間の組 |
-| 従来候補を同じ位置に保持 | 370 |
+| 従来候補を同じ位置に保持 | 368 |
 | 従来候補の同一期内で再配置 | 0 |
-| 従来候補を別候補へ差替 | 140 |
+| 従来候補を別候補へ差替 | 142 |
 | 初出年が判定不能 | 125 |
-| 初期／現在の年条件に疑義（候補を維持し明示） | 7 |
-| 他分類と同じ楽曲が選定されたケース | 18 |
+| 初期／現在の年条件に疑義（候補を維持し明示） | 0 |
+| 他分類と同じ楽曲が選定されたケース | 10 |
 | 正式採用 | 0 |
 
 **ファイル:** [510行CSV](../../../data/v0.2/reconstructed_510_2026-11-16.csv) ／ [全候補プールCSV](../../../data/v0.2/reconstruction_candidate_pool_2026-11-16.csv) ／ [510枠差分台帳](../../../data/v0.2/reconstruction_diff_2026-11-16.csv) ／ [機械可読監査・分類別内訳](../../../data/v0.2/reconstruction_audit_2026-11-16.json)。ZIPは作らずリポジトリへ直接格納する。
@@ -116,8 +116,8 @@ Discogs公式解説: [Release Page Guide](https://support.discogs.com/hc/en-us/a
 | 初2 | Bommer & Crowell — Loco | 2016 | [記事](https://sonaa.ca/en/styles/bass/riddim/)  | REPLACE_WITH_POOL_CANDIDATE |
 | 初3 | Getter — Head Splitter | 2014 | [記事](https://sonaa.ca/en/styles/bass/riddim/)  | REPLACE_WITH_POOL_CANDIDATE |
 | 初4 | INFEKT — Raptor | 2017 | [記事](https://sonaa.ca/en/styles/bass/riddim/)  | REPLACE_WITH_POOL_CANDIDATE |
-| 初5 | SVDDEN DEATH — BEHEMOTH | 2019 | [記事](https://sonaa.ca/en/styles/bass/riddim/)  | REPLACE_WITH_POOL_CANDIDATE |
-| 現1 | INFEKT & SampliFire — ECHO | 2025 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2025/riddim/)  | KEEP |
+| 初5 | Subfiltronik — Blockz | 2014 | — [曲目DB](https://musicbrainz.org/release/b0e09675-26f0-40f1-a2df-4d9e66ec5673) | REPLACE_WITH_POOL_CANDIDATE |
+| 現1 | roi* & Jub — Blow Up! | 2025 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2025/riddim/)  | REPLACE_WITH_POOL_CANDIDATE |
 | 現2 | INFEKT — BOOSTED | 2025 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2025/riddim/)  | KEEP |
 | 現3 | SampliFire & INFEKT — True Trench Times | 2025 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2025/riddim/)  | KEEP |
 | 現4 | roi* — Soundclouddotcomslashroidubs | 2025 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2025/riddim/)  | KEEP |
@@ -173,7 +173,7 @@ Discogs公式解説: [Release Page Guide](https://support.discogs.com/hc/en-us/a
 | 枠 | アーティスト — 楽曲 | 年（候補値） | 出典候補 | 旧枠比／警告 |
 |---|---|---|---|---|
 | 初1 | Chime — From Fairies to Fire | 2016 | [記事](https://dubstepguide.net/genres/colour-bass/)  | KEEP |
-| 初2 | Ace Aura — Coma | 2019 | [記事](https://dubstepguide.net/genres/colour-bass/)  | REPLACE_WITH_POOL_CANDIDATE |
+| 初2 | Ace Aura — Tongues of Fire | 2018 | [記事](https://dubstepguide.net/genres/colour-bass/) [曲目DB](https://musicbrainz.org/artist/d10e4f41-f9b6-49de-9ec3-58b35b0dd29b) | REPLACE_WITH_POOL_CANDIDATE |
 | 初3 | Chime & Ace Aura — Interdimensional | 2019 | [記事](https://dubstepguide.net/genres/colour-bass/)  | KEEP |
 | 初4 | Au5 & Chime — Voidwalkers | 2020 | [記事](https://dubstepguide.net/genres/colour-bass/)  | KEEP |
 | 初5 | Chime — Whirlwind | 2018 | [記事](https://underowl.net/en/genre/colour-bass)  | REPLACE_WITH_POOL_CANDIDATE |
@@ -352,10 +352,10 @@ Discogs公式解説: [Release Page Guide](https://support.discogs.com/hc/en-us/a
 
 | 枠 | アーティスト — 楽曲 | 年（候補値） | 出典候補 | 旧枠比／警告 |
 |---|---|---|---|---|
-| 初1 | Luci4 — Kurxxed Emeraldz | 2021 | [記事](https://pitchfork.com/thepitch/luci4-unleashed-a-generation-of-glitchy-underground-rap/)  | REPLACE_WITH_POOL_CANDIDATE |
-| 初2 | Odetari — GOOD LOYAL THOTS | 2023 | [記事](https://volt.fm/genre/7425/krushclub)  | KEEP / 年代要修正 |
-| 初3 | 6arelyhuman — Hands Up! | 2023 | [記事](https://volt.fm/genre/7425/krushclub)  | KEEP / 年代要修正 |
-| 初4 | Odetari — LOOK DON’T TOUCH | 2023 | [記事](https://volt.fm/genre/7425/krushclub)  | KEEP / 年代要修正 |
+| 初1 | Odetari & 6arelyhuman — GMFU | 2023 | [記事](https://volt.fm/genre/7425/krushclub) [曲目DB](https://musicbrainz.org/release/8cc2a9ae-cc1d-4b83-a04c-d7402a47b886) | REPLACE_WITH_POOL_CANDIDATE / 新興ジャンル初期 |
+| 初2 | Odetari — GOOD LOYAL THOTS | 2023 | [記事](https://volt.fm/genre/7425/krushclub)  | KEEP / 新興ジャンル初期 |
+| 初3 | 6arelyhuman — Hands Up! | 2023 | [記事](https://volt.fm/genre/7425/krushclub)  | KEEP / 新興ジャンル初期 |
+| 初4 | Odetari — LOOK DON’T TOUCH | 2023 | [記事](https://volt.fm/genre/7425/krushclub)  | KEEP / 新興ジャンル初期 |
 | 初5 | asteria & kets4eki — MOLLY | 未確認 | —  | KEEP |
 | 現1 | lexycat — ♛ #cherryCrush ✮°｡⋆ | 2025 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/all/hexd/)  | KEEP |
 | 現2 | Lumi Athena & Cade Clair — Let Me See Ya Move! | 2023 | [記事](https://tsnvwrld.com/what-is-krushclub-music/)  | REPLACE_WITH_POOL_CANDIDATE |
@@ -506,7 +506,7 @@ Discogs公式解説: [Release Page Guide](https://support.discogs.com/hc/en-us/a
 | 初2 | Famous Dex — Drip From My Walk | 未確認 | —  | KEEP |
 | 初3 | D Savage — I Know | 未確認 | —  | KEEP |
 | 初4 | MexikoDro — Plug! | 未確認 | —  | KEEP |
-| 初5 | Summrs — Swing Ya Pole | 未確認 | —  | KEEP |
+| 初5 | Playboi Carti — Plug | 未確認 | [記事](https://pitchfork.com/thepitch/an-interview-with-mexikodro/)  | REPLACE_WITH_POOL_CANDIDATE |
 | 現1 | Serane — Ig | 2024 | [記事](https://www.thefader.com/2024/02/08/serane-paris-rapper-plugg/feed)  | REPLACE_WITH_POOL_CANDIDATE |
 | 現2 | Slime Dollaz & DJ Slimebxll — pesos | 2025 | [記事](https://www.thefader.com/2025/03/19/slime-dollaz-dj-slimebxll-pesos-song-review)  | REPLACE_WITH_POOL_CANDIDATE |
 | 現3 | FLEE & StoopidXool — LITA | 2025 | [記事](https://www.thefader.com/2025/07/04/rap-blog-flee-stoopidxool-lita)  | REPLACE_WITH_POOL_CANDIDATE |
@@ -547,12 +547,12 @@ Discogs公式解説: [Release Page Guide](https://support.discogs.com/hc/en-us/a
 
 | 枠 | アーティスト — 楽曲 | 年（候補値） | 出典候補 | 旧枠比／警告 |
 |---|---|---|---|---|
-| 初1 | xaviersobased — Patchmade | 2022 | [記事](https://www.thefader.com/2026/02/03/xaviersobased-fader-cover-story-intervew-album-dj-rennessy)  | KEEP / 年代要修正 |
+| 初1 | xaviersobased — Patchmade | 2022 | [記事](https://www.thefader.com/2026/02/03/xaviersobased-fader-cover-story-intervew-album-dj-rennessy)  | KEEP / 新興ジャンル初期 |
 | 初2 | phreshboyswag — Inspire | 未確認 | —  | KEEP |
 | 初3 | Nettspend — Shine n Peace | 未確認 | —  | KEEP |
 | 初4 | Duwap Kaine — DuwapSoBased | 未確認 | —  | KEEP |
 | 初5 | xaviersobased — 40 | 未確認 | —  | KEEP |
-| 現1 | Nettspend — Shine N Peace | 2023 | [記事](https://www.thefader.com/2026/02/03/xaviersobased-fader-cover-story-intervew-album-dj-rennessy)  | REPLACE_WITH_POOL_CANDIDATE |
+| 現1 | Nettspend & xaviersobased — Impact | 2025 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2025/jerk/) [曲目DB](https://musicbrainz.org/artist/155cfd40-dcde-471e-acc0-32179916165c?all=1&page=2) | REPLACE_WITH_POOL_CANDIDATE |
 | 現2 | matt proxy — catfish | 2025 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2025/jerk/)  | KEEP |
 | 現3 | fakemink — Fidelio | 2025 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2025/jerk/)  | KEEP |
 | 現4 | Nettspend ft. xaviersobased — impact | 2025 | [記事](https://ourgenerationmusic.com/new-music-spotlight/nettspend-impact-xaviersobased-rolling-loud/)  | REPLACE_WITH_POOL_CANDIDATE |
@@ -583,8 +583,8 @@ Discogs公式解説: [Release Page Guide](https://support.discogs.com/hc/en-us/a
 | 初4 | xaviersobased — ghost town | 未確認 | —  | KEEP |
 | 初5 | Lazer Dim 700 — Asian Rock | 未確認 | —  | KEEP |
 | 現1 | 2slimey — reef | 2025 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2025/plugg/)  | KEEP |
-| 現2 | yuke — ian goin | 2024 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2024/terror-plugg/)  | REPLACE_WITH_POOL_CANDIDATE |
-| 現3 | xaviersobased — ghost town | 2024 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2024/terror-plugg/)  | REPLACE_WITH_POOL_CANDIDATE |
+| 現2 | Tockyy — troy bolton | 2025 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2025/plugg/)  | REPLACE_WITH_POOL_CANDIDATE |
+| 現3 | Slimepayn — Love | 2025 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2025/plugg/)  | REPLACE_WITH_POOL_CANDIDATE |
 | 現4 | osamason — horses | 2025 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2025/plugg/)  | KEEP |
 | 現5 | Percatric — Real Tears | 2026 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/single/2026/dark-plugg/)  | KEEP |
 
@@ -667,9 +667,9 @@ Discogs公式解説: [Release Page Guide](https://support.discogs.com/hc/en-us/a
 
 | 枠 | アーティスト — 楽曲 | 年（候補値） | 出典候補 | 旧枠比／警告 |
 |---|---|---|---|---|
-| 初1 | 6YNTHMANE & RXDXVIL — BRAZILIAN DANÇA PHONK | 2023 | [記事](https://www.youtube.com/watch?v=XuiL1Le0-34)  | KEEP / 年代要修正 |
-| 初2 | Slowboy, lucaf. & Crazy Mano — Brazilian Phonk Mano | 2023 | [記事](https://www.youtube.com/watch?v=XuiL1Le0-34)  | KEEP / 年代要修正 |
-| 初3 | Slowboy, NUEKI & Crazy Mano — Life in Rio | 2023 | [記事](https://www.youtube.com/watch?v=XuiL1Le0-34)  | KEEP / 年代要修正 |
+| 初1 | 6YNTHMANE & RXDXVIL — BRAZILIAN DANÇA PHONK | 2023 | [記事](https://www.youtube.com/watch?v=XuiL1Le0-34)  | KEEP / 新興ジャンル初期 |
+| 初2 | Slowboy, lucaf. & Crazy Mano — Brazilian Phonk Mano | 2023 | [記事](https://www.youtube.com/watch?v=XuiL1Le0-34)  | KEEP / 新興ジャンル初期 |
+| 初3 | Slowboy, NUEKI & Crazy Mano — Life in Rio | 2023 | [記事](https://www.youtube.com/watch?v=XuiL1Le0-34)  | KEEP / 新興ジャンル初期 |
 | 初4 | S3BZS & MC GW — MONTAGEM - PR FUNK | 未確認 | —  | KEEP |
 | 初5 | TRASHXRL — Orquestra Maldita | 未確認 | —  | KEEP |
 | 現1 | NCTS — MADRUGADA | 2025 | [記事](https://www.youtube.com/watch?v=GGuwo1lkljc)  | KEEP |
@@ -797,6 +797,21 @@ Discogs公式解説: [Release Page Guide](https://support.discogs.com/hc/en-us/a
 | 現3 | JPEGMAFIA — either on or off the drugs | 2024 | [記事](https://www.albumoftheyear.org/artist/90855-jpegmafia/)  | KEEP |
 | 現4 | JPEGMAFIA — PROTECT THE CROSS | 2025 | [記事](https://www.albumoftheyear.org/2025/releases/?type=single)  | KEEP |
 | 現5 | JPEGMAFIA — SIN MIEDO | 2024 | [記事](https://www.albumoftheyear.org/ratings/user-highest-rated/2025/experimental/)  | KEEP |
+
+## 新興ジャンルの初期／現在の年代判定
+
+#22 Krushclub、#35 New Jerk / Jerk Revival、#43 Brazilian Phonkなど2020年代に成立した分類では、**初期＝成立期の典型作品**であり、「初期作品の発売年が2022年以降だから年代不適合」とは判定しない。初期と現代は年が重なり得るため、成立時期・音響上の転換点・楽曲ごとの初出を別途資料で確認する。Brazilian Phonkの2023年成立については[Billboard Brasil](https://billboard.com.br/brazilian-phonk-conheca-a-variacao-gringa-do-funk-que-e-viral-no-tik-tok/)と[Slowboyに関する取材](https://www.terra.com.br/visao-do-corre/brazilian-phonk-por-que-o-funk-de-bailes-de-sp-ganhou-outro-nome-e-se-espalhou-pela-europa%2C9e06f39a963715542bb0ee4e4b33099ao8lvyrhb.html)も参照。
+
+## 今回の重複軽減とMusicBrainz追加照合
+
+- **G06-E-05**: SVDDEN DEATH — BEHEMOTH → Subfiltronik — Blockz （[盤・曲目情報](https://musicbrainz.org/release/b0e09675-26f0-40f1-a2df-4d9e66ec5673) を参照、代表性未検証）
+- **G06-N-01**: INFEKT & SampliFire — ECHO → roi* & Jub — Blow Up! （出典は既存台帳由来、独立再検証前）
+- **G10-E-02**: Ace Aura — Coma → Ace Aura — Tongues of Fire （[盤・曲目情報](https://musicbrainz.org/artist/d10e4f41-f9b6-49de-9ec3-58b35b0dd29b) を参照、代表性未検証）
+- **G22-E-01**: Luci4 — Kurxxed Emeraldz → Odetari & 6arelyhuman — GMFU （[盤・曲目情報](https://musicbrainz.org/release/8cc2a9ae-cc1d-4b83-a04c-d7402a47b886) を参照、代表性未検証）
+- **G32-E-05**: Summrs — Swing Ya Pole → Playboi Carti — Plug （出典は既存台帳由来、独立再検証前）
+- **G35-N-01**: Nettspend — Shine N Peace → Nettspend & xaviersobased — Impact （[盤・曲目情報](https://musicbrainz.org/artist/155cfd40-dcde-471e-acc0-32179916165c?all=1&page=2) を参照、代表性未検証）
+- **G37-N-02**: yuke — ian goin → Tockyy — troy bolton （出典は既存台帳由来、独立再検証前）
+- **G37-N-03**: xaviersobased — ghost town → Slimepayn — Love （出典は既存台帳由来、独立再検証前）
 
 ## 例外・未達・次の確認対象
 
