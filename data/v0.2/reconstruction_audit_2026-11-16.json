@@ -1,0 +1,795 @@
+{
+  "schema": "electronic-music-genre-atlas.reconstructed-510.v0.2",
+  "as_of": "2026-11-16",
+  "source_main_sha": "64c66e05dff28a227c10eec600d29ad7b642b703",
+  "version": "v0.2",
+  "scope": "all accessible legacy and v0.2 candidate records (not the inaccessible earlier 510-row Deep Research exports)",
+  "target_slots": 510,
+  "proposed_slots": 510,
+  "candidate_pool_unique_records": 673,
+  "raw_candidate_observations": 809,
+  "source_inventory": {
+    "legacy_510_queue": 510,
+    "canonical_populated_16": 16,
+    "original_research_json": 16,
+    "supplementary_2026": 5,
+    "source_audit_2026": 20,
+    "deep_research_first_68": 68,
+    "deep_research_second_174": 174
+  },
+  "period_counts": {
+    "early": 255,
+    "current": 255
+  },
+  "actions": {
+    "KEEP": 368,
+    "REPLACE_WITH_POOL_CANDIDATE": 142
+  },
+  "states": {
+    "PROPOSED_NEEDS_A_B_AND_AUDIO_RECHECK": 490,
+    "CLASSIFICATION_EXCEPTION_PROVISIONAL": 20
+  },
+  "unknown_year_count": 125,
+  "period_conflict_count": 0,
+  "flag_counts": {
+    "SOURCE_TEXT_UNVERIFIED": 401,
+    "AUDIO_RIGHTS_VERSION_UNVERIFIED": 204,
+    "DISCOGRAPHY_METADATA_ONLY_NOT_REPRESENTATIVENESS": 8,
+    "A_B_GRADE_REPORT_ONLY": 165,
+    "NO_YEAR": 125,
+    "NO_INDIVIDUAL_RIGHTSHOLDER_URL": 306,
+    "NO_GENRE_REPRESENTATIVE_SOURCE": 110,
+    "YEAR_RANGE_UNVERIFIED": 8,
+    "FORMATIVE_PERIOD_OVERLAPS_MODERN_2022_2026": 8,
+    "GENRE_CLASSIFICATION_EXCEPTION_REQUIRES_REVIEW": 20
+  },
+  "within_atlas_duplicate_tracks": 10,
+  "duplicate_details": [
+    {
+      "track": "ninajirachi/alliam",
+      "slots": [
+        "G02-N-02",
+        "G03-N-02"
+      ]
+    },
+    {
+      "track": "ninajirachi/fuckmycomputer",
+      "slots": [
+        "G02-N-03",
+        "G03-N-04"
+      ]
+    },
+    {
+      "track": "infekt/boosted",
+      "slots": [
+        "G06-N-02",
+        "G12-N-03"
+      ]
+    },
+    {
+      "track": "leroy/gowhiteenbygo",
+      "slots": [
+        "G27-E-01",
+        "G28-E-03"
+      ]
+    },
+    {
+      "track": "xaev/istartedtheutsctodariacorepipeline",
+      "slots": [
+        "G27-E-05",
+        "G28-E-04"
+      ]
+    },
+    {
+      "track": "osamason/ikwhatyoudidlastsummer",
+      "slots": [
+        "G34-N-05",
+        "G36-E-05"
+      ]
+    },
+    {
+      "track": "2slimey/reef",
+      "slots": [
+        "G36-N-01",
+        "G37-N-01"
+      ]
+    },
+    {
+      "track": "djarana/montagemphonkbrasileiro",
+      "slots": [
+        "G41-N-01",
+        "G42-E-01",
+        "G44-E-01"
+      ]
+    },
+    {
+      "track": "deekapz/ritmadomágiconosumarézinho",
+      "slots": [
+        "G41-N-04",
+        "G44-E-05"
+      ]
+    },
+    {
+      "track": "djp7andmcpr/automotivodestruidorp7vaitedestruir",
+      "slots": [
+        "G42-E-02",
+        "G44-E-04"
+      ]
+    }
+  ],
+  "metadata_web_checked_musicbrainz_count": 8,
+  "verified_track_level_ab_now": 0,
+  "confirmed_adopted": 0,
+  "playback_verified": 0,
+  "regional_verified": 0,
+  "source_notes": [
+    "Grade claims from old and v0.2 source sets are report-only, not newly independently read.",
+    "Discogs references linked in MusicBrainz are explicitly not asserted as directly visited.",
+    "Older reports may include mistaken genres/years; all 510 are working proposals, not adopted recordings.",
+    "Numbers 252/258 and 6/202/4/278/20 from missing exports cannot be rebuilt from those exports.",
+    "Formative examples can originate 2022–2026 for genres born recently: #22 Krushclub, #35 New Jerk, #43 Brazilian Phonk. This is not an automatic period conflict; requires confirming scene formation against genre history.",
+    "Discography spot checks expanded to Subfiltronik BLOCKZ (2014 release), Ace Aura Tongues of Fire (2018 separate from 2022 VIP), Odetari/6arelyhuman GMFU (2023-07-26), Nettspend xaviersobased IMPACT (2025)."
+  ],
+  "per_genre": [
+    {
+      "genre_id": "01",
+      "name": "UK Dubstep",
+      "early": 5,
+      "current": 5,
+      "with_year": 8,
+      "reported_audio": 5,
+      "source_leads": 9,
+      "changed": 5,
+      "category_exception": false
+    },
+    {
+      "genre_id": "02",
+      "name": "Electro House",
+      "early": 5,
+      "current": 5,
+      "with_year": 10,
+      "reported_audio": 4,
+      "source_leads": 10,
+      "changed": 4,
+      "category_exception": false
+    },
+    {
+      "genre_id": "03",
+      "name": "Complextro",
+      "early": 5,
+      "current": 5,
+      "with_year": 10,
+      "reported_audio": 10,
+      "source_leads": 10,
+      "changed": 1,
+      "category_exception": false
+    },
+    {
+      "genre_id": "04",
+      "name": "Glitch Hop",
+      "early": 5,
+      "current": 5,
+      "with_year": 7,
+      "reported_audio": 9,
+      "source_leads": 7,
+      "changed": 3,
+      "category_exception": false
+    },
+    {
+      "genre_id": "05",
+      "name": "Brostep",
+      "early": 5,
+      "current": 5,
+      "with_year": 10,
+      "reported_audio": 7,
+      "source_leads": 10,
+      "changed": 3,
+      "category_exception": false
+    },
+    {
+      "genre_id": "06",
+      "name": "Riddim Dubstep",
+      "early": 5,
+      "current": 5,
+      "with_year": 10,
+      "reported_audio": 5,
+      "source_leads": 9,
+      "changed": 6,
+      "category_exception": false
+    },
+    {
+      "genre_id": "07",
+      "name": "Melodic Dubstep",
+      "early": 5,
+      "current": 5,
+      "with_year": 8,
+      "reported_audio": 6,
+      "source_leads": 8,
+      "changed": 3,
+      "category_exception": false
+    },
+    {
+      "genre_id": "08",
+      "name": "Future Bass",
+      "early": 5,
+      "current": 5,
+      "with_year": 10,
+      "reported_audio": 0,
+      "source_leads": 10,
+      "changed": 10,
+      "category_exception": false
+    },
+    {
+      "genre_id": "09",
+      "name": "Future Riddim",
+      "early": 5,
+      "current": 5,
+      "with_year": 8,
+      "reported_audio": 6,
+      "source_leads": 8,
+      "changed": 1,
+      "category_exception": false
+    },
+    {
+      "genre_id": "10",
+      "name": "Colour Bass",
+      "early": 5,
+      "current": 5,
+      "with_year": 10,
+      "reported_audio": 9,
+      "source_leads": 10,
+      "changed": 6,
+      "category_exception": false
+    },
+    {
+      "genre_id": "11",
+      "name": "Modern Tearout",
+      "early": 5,
+      "current": 5,
+      "with_year": 9,
+      "reported_audio": 3,
+      "source_leads": 9,
+      "changed": 4,
+      "category_exception": false
+    },
+    {
+      "genre_id": "12",
+      "name": "Trench / Modern Riddim",
+      "early": 5,
+      "current": 5,
+      "with_year": 6,
+      "reported_audio": 5,
+      "source_leads": 5,
+      "changed": 1,
+      "category_exception": false
+    },
+    {
+      "genre_id": "13",
+      "name": "Experimental Bass",
+      "early": 5,
+      "current": 5,
+      "with_year": 5,
+      "reported_audio": 8,
+      "source_leads": 5,
+      "changed": 1,
+      "category_exception": false
+    },
+    {
+      "genre_id": "14",
+      "name": "Drum & Bass",
+      "early": 5,
+      "current": 5,
+      "with_year": 8,
+      "reported_audio": 2,
+      "source_leads": 10,
+      "changed": 8,
+      "category_exception": false
+    },
+    {
+      "genre_id": "15",
+      "name": "Neurofunk",
+      "early": 5,
+      "current": 5,
+      "with_year": 9,
+      "reported_audio": 5,
+      "source_leads": 9,
+      "changed": 2,
+      "category_exception": false
+    },
+    {
+      "genre_id": "16",
+      "name": "Trance",
+      "early": 5,
+      "current": 5,
+      "with_year": 8,
+      "reported_audio": 7,
+      "source_leads": 10,
+      "changed": 3,
+      "category_exception": false
+    },
+    {
+      "genre_id": "17",
+      "name": "Nightcore / Sped-up Edit",
+      "early": 5,
+      "current": 5,
+      "with_year": 6,
+      "reported_audio": 1,
+      "source_leads": 6,
+      "changed": 1,
+      "category_exception": false
+    },
+    {
+      "genre_id": "18",
+      "name": "Hyperpop",
+      "early": 5,
+      "current": 5,
+      "with_year": 10,
+      "reported_audio": 7,
+      "source_leads": 10,
+      "changed": 2,
+      "category_exception": false
+    },
+    {
+      "genre_id": "19",
+      "name": "HexD",
+      "early": 5,
+      "current": 5,
+      "with_year": 5,
+      "reported_audio": 0,
+      "source_leads": 7,
+      "changed": 0,
+      "category_exception": false
+    },
+    {
+      "genre_id": "20",
+      "name": "Sigilkore",
+      "early": 5,
+      "current": 5,
+      "with_year": 8,
+      "reported_audio": 2,
+      "source_leads": 8,
+      "changed": 1,
+      "category_exception": false
+    },
+    {
+      "genre_id": "21",
+      "name": "Jersey Club",
+      "early": 5,
+      "current": 5,
+      "with_year": 10,
+      "reported_audio": 5,
+      "source_leads": 10,
+      "changed": 4,
+      "category_exception": false
+    },
+    {
+      "genre_id": "22",
+      "name": "Krushclub",
+      "early": 5,
+      "current": 5,
+      "with_year": 9,
+      "reported_audio": 4,
+      "source_leads": 9,
+      "changed": 4,
+      "category_exception": false
+    },
+    {
+      "genre_id": "23",
+      "name": "Plunderphonics",
+      "early": 5,
+      "current": 5,
+      "with_year": 5,
+      "reported_audio": 2,
+      "source_leads": 5,
+      "changed": 0,
+      "category_exception": false
+    },
+    {
+      "genre_id": "24",
+      "name": "Mashup",
+      "early": 5,
+      "current": 5,
+      "with_year": 6,
+      "reported_audio": 0,
+      "source_leads": 6,
+      "changed": 1,
+      "category_exception": false
+    },
+    {
+      "genre_id": "25",
+      "name": "Mashcore",
+      "early": 5,
+      "current": 5,
+      "with_year": 6,
+      "reported_audio": 0,
+      "source_leads": 6,
+      "changed": 1,
+      "category_exception": false
+    },
+    {
+      "genre_id": "26",
+      "name": "Breakcore",
+      "early": 5,
+      "current": 5,
+      "with_year": 9,
+      "reported_audio": 5,
+      "source_leads": 9,
+      "changed": 1,
+      "category_exception": false
+    },
+    {
+      "genre_id": "27",
+      "name": "Dariacore",
+      "early": 5,
+      "current": 5,
+      "with_year": 9,
+      "reported_audio": 1,
+      "source_leads": 9,
+      "changed": 3,
+      "category_exception": false
+    },
+    {
+      "genre_id": "28",
+      "name": "Hyperflip",
+      "early": 5,
+      "current": 5,
+      "with_year": 5,
+      "reported_audio": 0,
+      "source_leads": 5,
+      "changed": 0,
+      "category_exception": false
+    },
+    {
+      "genre_id": "29",
+      "name": "Trap (Rap)",
+      "early": 5,
+      "current": 5,
+      "with_year": 7,
+      "reported_audio": 3,
+      "source_leads": 7,
+      "changed": 4,
+      "category_exception": false
+    },
+    {
+      "genre_id": "30",
+      "name": "EDM Trap",
+      "early": 5,
+      "current": 5,
+      "with_year": 9,
+      "reported_audio": 5,
+      "source_leads": 9,
+      "changed": 3,
+      "category_exception": false
+    },
+    {
+      "genre_id": "31",
+      "name": "Cloud Rap",
+      "early": 5,
+      "current": 5,
+      "with_year": 10,
+      "reported_audio": 4,
+      "source_leads": 10,
+      "changed": 4,
+      "category_exception": false
+    },
+    {
+      "genre_id": "32",
+      "name": "Plugg",
+      "early": 5,
+      "current": 5,
+      "with_year": 5,
+      "reported_audio": 2,
+      "source_leads": 7,
+      "changed": 5,
+      "category_exception": false
+    },
+    {
+      "genre_id": "33",
+      "name": "PluggnB",
+      "early": 5,
+      "current": 5,
+      "with_year": 6,
+      "reported_audio": 5,
+      "source_leads": 6,
+      "changed": 2,
+      "category_exception": false
+    },
+    {
+      "genre_id": "34",
+      "name": "Rage Rap",
+      "early": 5,
+      "current": 5,
+      "with_year": 10,
+      "reported_audio": 6,
+      "source_leads": 10,
+      "changed": 3,
+      "category_exception": false
+    },
+    {
+      "genre_id": "35",
+      "name": "New Jerk / Jerk Revival",
+      "early": 5,
+      "current": 5,
+      "with_year": 6,
+      "reported_audio": 5,
+      "source_leads": 6,
+      "changed": 2,
+      "category_exception": false
+    },
+    {
+      "genre_id": "36",
+      "name": "Axxcelerationist / Neo Rage",
+      "early": 5,
+      "current": 5,
+      "with_year": 5,
+      "reported_audio": 5,
+      "source_leads": 5,
+      "changed": 0,
+      "category_exception": true
+    },
+    {
+      "genre_id": "37",
+      "name": "Terror Plugg",
+      "early": 5,
+      "current": 5,
+      "with_year": 5,
+      "reported_audio": 2,
+      "source_leads": 5,
+      "changed": 2,
+      "category_exception": false
+    },
+    {
+      "genre_id": "38",
+      "name": "Memphis Rap",
+      "early": 5,
+      "current": 5,
+      "with_year": 9,
+      "reported_audio": 2,
+      "source_leads": 10,
+      "changed": 6,
+      "category_exception": false
+    },
+    {
+      "genre_id": "39",
+      "name": "Phonk (Original / Memphis系)",
+      "early": 5,
+      "current": 5,
+      "with_year": 8,
+      "reported_audio": 2,
+      "source_leads": 8,
+      "changed": 3,
+      "category_exception": false
+    },
+    {
+      "genre_id": "40",
+      "name": "Drift Phonk",
+      "early": 5,
+      "current": 5,
+      "with_year": 9,
+      "reported_audio": 3,
+      "source_leads": 9,
+      "changed": 3,
+      "category_exception": false
+    },
+    {
+      "genre_id": "41",
+      "name": "Baile Funk / Brazilian Funk",
+      "early": 5,
+      "current": 5,
+      "with_year": 5,
+      "reported_audio": 7,
+      "source_leads": 6,
+      "changed": 3,
+      "category_exception": false
+    },
+    {
+      "genre_id": "42",
+      "name": "Funk Automotivo",
+      "early": 5,
+      "current": 5,
+      "with_year": 5,
+      "reported_audio": 5,
+      "source_leads": 8,
+      "changed": 1,
+      "category_exception": false
+    },
+    {
+      "genre_id": "43",
+      "name": "Brazilian Phonk",
+      "early": 5,
+      "current": 5,
+      "with_year": 8,
+      "reported_audio": 7,
+      "source_leads": 8,
+      "changed": 1,
+      "category_exception": false
+    },
+    {
+      "genre_id": "44",
+      "name": "Post-Baile-Funk / LatinCore",
+      "early": 5,
+      "current": 5,
+      "with_year": 4,
+      "reported_audio": 5,
+      "source_leads": 5,
+      "changed": 2,
+      "category_exception": false
+    },
+    {
+      "genre_id": "45",
+      "name": "Hardstyle",
+      "early": 5,
+      "current": 5,
+      "with_year": 8,
+      "reported_audio": 3,
+      "source_leads": 10,
+      "changed": 5,
+      "category_exception": false
+    },
+    {
+      "genre_id": "46",
+      "name": "Jumpstyle",
+      "early": 5,
+      "current": 5,
+      "with_year": 10,
+      "reported_audio": 2,
+      "source_leads": 10,
+      "changed": 2,
+      "category_exception": false
+    },
+    {
+      "genre_id": "47",
+      "name": "Hardtekk / TikTokTekk",
+      "early": 5,
+      "current": 5,
+      "with_year": 5,
+      "reported_audio": 1,
+      "source_leads": 5,
+      "changed": 0,
+      "category_exception": false
+    },
+    {
+      "genre_id": "48",
+      "name": "Digicore",
+      "early": 5,
+      "current": 5,
+      "with_year": 6,
+      "reported_audio": 3,
+      "source_leads": 6,
+      "changed": 6,
+      "category_exception": false
+    },
+    {
+      "genre_id": "49",
+      "name": "Cinematic Bass",
+      "early": 5,
+      "current": 5,
+      "with_year": 6,
+      "reported_audio": 4,
+      "source_leads": 6,
+      "changed": 3,
+      "category_exception": false
+    },
+    {
+      "genre_id": "50",
+      "name": "Hyper Melodic Tearout",
+      "early": 5,
+      "current": 5,
+      "with_year": 5,
+      "reported_audio": 5,
+      "source_leads": 5,
+      "changed": 0,
+      "category_exception": true
+    },
+    {
+      "genre_id": "51",
+      "name": "Glitch Hop (実験Hip Hop)",
+      "early": 5,
+      "current": 5,
+      "with_year": 10,
+      "reported_audio": 0,
+      "source_leads": 10,
+      "changed": 3,
+      "category_exception": false
+    }
+  ],
+  "manual_duplicate_resolutions": [
+    {
+      "slot": "G06-E-05",
+      "old": {
+        "artist": "SVDDEN DEATH",
+        "title": "BEHEMOTH"
+      },
+      "new": {
+        "artist": "Subfiltronik",
+        "title": "Blockz"
+      },
+      "metadata": "https://musicbrainz.org/release/b0e09675-26f0-40f1-a2df-4d9e66ec5673"
+    },
+    {
+      "slot": "G06-N-01",
+      "old": {
+        "artist": "INFEKT & SampliFire",
+        "title": "ECHO"
+      },
+      "new": {
+        "artist": "roi* & Jub",
+        "title": "Blow Up!"
+      },
+      "metadata": ""
+    },
+    {
+      "slot": "G10-E-02",
+      "old": {
+        "artist": "Ace Aura",
+        "title": "Coma"
+      },
+      "new": {
+        "artist": "Ace Aura",
+        "title": "Tongues of Fire"
+      },
+      "metadata": "https://musicbrainz.org/artist/d10e4f41-f9b6-49de-9ec3-58b35b0dd29b"
+    },
+    {
+      "slot": "G22-E-01",
+      "old": {
+        "artist": "Luci4",
+        "title": "Kurxxed Emeraldz"
+      },
+      "new": {
+        "artist": "Odetari & 6arelyhuman",
+        "title": "GMFU"
+      },
+      "metadata": "https://musicbrainz.org/release/8cc2a9ae-cc1d-4b83-a04c-d7402a47b886"
+    },
+    {
+      "slot": "G32-E-05",
+      "old": {
+        "artist": "Summrs",
+        "title": "Swing Ya Pole"
+      },
+      "new": {
+        "artist": "Playboi Carti",
+        "title": "Plug"
+      },
+      "metadata": ""
+    },
+    {
+      "slot": "G35-N-01",
+      "old": {
+        "artist": "Nettspend",
+        "title": "Shine N Peace"
+      },
+      "new": {
+        "artist": "Nettspend & xaviersobased",
+        "title": "Impact"
+      },
+      "metadata": "https://musicbrainz.org/artist/155cfd40-dcde-471e-acc0-32179916165c?all=1&page=2"
+    },
+    {
+      "slot": "G37-N-02",
+      "old": {
+        "artist": "yuke",
+        "title": "ian goin"
+      },
+      "new": {
+        "artist": "Tockyy",
+        "title": "troy bolton"
+      },
+      "metadata": ""
+    },
+    {
+      "slot": "G37-N-03",
+      "old": {
+        "artist": "xaviersobased",
+        "title": "ghost town"
+      },
+      "new": {
+        "artist": "Slimepayn",
+        "title": "Love"
+      },
+      "metadata": ""
+    }
+  ],
+  "formative_overlaps_modern_year_window": 8
+}
